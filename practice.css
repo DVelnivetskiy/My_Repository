@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;    
+}
+.container {
+    width: 500px;
+    margin: 50px auto;
+}
+
+.outline {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 3px solid black;
+    background: rgba(255,255,0,0.2);
+}
+
+.column1, .column2, .column3 {
+    min-height: 200px;    
+}
+
+.column1 {
+    float: left;
+    width: 104px;
+    margin-right: 25px;
+}
+
+.column2 {
+    float: left;
+    width: 104px;
+    margin-right: 25px;
+}
+
+.column3 {
+    float: right;
+    width: 104px;
+    
+}
+
+.footer {
+    clear: both;
+}
