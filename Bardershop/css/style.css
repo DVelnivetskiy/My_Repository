@@ -17,11 +17,11 @@ body {
 }
 .main-navigation {
     width: 780px;
-    float: left; 
+    float: left;    
 }
 .user-block {
     width: 140px;
-    float: right;    
+    float: right;     
 }
 .main-header {
     margin-bottom: 60px;
@@ -70,4 +70,23 @@ body {
 .footer-copyright {
     width: 180px;
     float: right;    
+}
+/*New 11/01/2018*/
+.title-h1 {
+    margin-bottom: 30px; 
+}
+.nav-products {
+    margin-bottom: 60px; 
+}
+.item-content-left {
+    width: 460px;
+    margin-right: 20px;
+    float: left;
+}
+.item-content-right {
+    width: 460px;
+    margin-right: 0px;
+    padding-left: 70px;
+    float: left;
+    box-sizing: border-box;
 }
